@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi!
+
+I am an environmental economist at the National Center for Environmental Economics in the US Environmental Protection Agency. My main research activities tend to be split between policy analysis/tool development using computable general equilibrium models and understanding the standards for regulating and implications of changes in ambient air pollution.
+
+General interests: computational, environmental, and natural resource economics, GAMS, R, emacs.
+
+For more information about my work, see my [CV](https://1drv.ms/b/c/54bf56a9b2fd8ac1/ETNXVL-tSv1DhFGqBnhQwaUBRQF72LxkZjgcAWryBb92YA?e=w3uVyG) or [Google Scholar Profile](https://scholar.google.com/citations?user=ZLERdEIAAAAJ&hl=en).
 
 <!--
 **andrewwschreiber/andrewwschreiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
